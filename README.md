@@ -1,0 +1,2 @@
+# Brain_Weight_by_Head_Size_in_Humans_Linear_Regression_with_PyTorch
+linear regression model to calculate brain weight by head size
